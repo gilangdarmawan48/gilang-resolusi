@@ -1,4 +1,4 @@
 GILANG Resolusi
 - Konsisten Belajar 1 Jam 1 Hari
-- Membuat project aplikasi sederhana
 - Membuat project aplikasi yang kompleks
+- Bisa Bekerja Di Startup
