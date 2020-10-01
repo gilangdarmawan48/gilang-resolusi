@@ -1,5 +1,6 @@
 # Rencana Belajar Bahasa Pemrogrman
 - JavaScript
+  * Bisa membuat program dengan JavaScript
 - Python
 - C++
 - Java
