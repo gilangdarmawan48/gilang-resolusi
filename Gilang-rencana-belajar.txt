@@ -1,0 +1,5 @@
+# Rencana Belajar Bahasa Pemrogrman
+- JavaScript
+- Python
+- C++
+- Java
