@@ -1,6 +1,8 @@
 # Rencana Belajar Bahasa Pemrogrman
 - JavaScript
   * Bisa membuat program dengan JavaScript
+   ^ angular
+   ^ react
 - Python
    ^ numpy
 - C++
@@ -11,4 +13,5 @@
  ^ PHP OOP
  ^ Laravel
  ^ Codeigneter
+ ^ Laravel
 - Android
