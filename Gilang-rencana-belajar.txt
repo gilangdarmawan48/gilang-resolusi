@@ -9,4 +9,5 @@
   ^ java oop
 - Ruby
 - PHP
+  ^ Laravel
 - Android
