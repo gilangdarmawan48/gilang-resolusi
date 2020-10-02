@@ -2,6 +2,7 @@
 - JavaScript
   * Bisa membuat program dengan JavaScript
    ^ angular
+   ^ react
 - Python
    ^ numpy
 - C++
@@ -9,4 +10,5 @@
   ^ java oop
 - Ruby
 - PHP
+  ^ Laravel
 - Android
