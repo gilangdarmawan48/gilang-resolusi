@@ -8,3 +8,5 @@
 - Java
   ^ java oop
 - Ruby
+- PHP
+- Android
